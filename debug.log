@@ -1,0 +1,4 @@
+[0109/140516.467:ERROR:file_io_win.cc(161)] CreateFile C:\Users\NMARQU~1\AppData\Local\Temp\scoped_dir6872_628659113\Crashpad\settings.dat: O sistema não pode encontrar o arquivo especificado. (0x2)
+[0217/170921.063:ERROR:file_io_win.cc(161)] CreateFile C:\Users\NMARQU~1\AppData\Local\Temp\scoped_dir18232_10678283\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[0217/170921.069:ERROR:file_io_win.cc(170)] CreateFile C:\Users\NMARQU~1\AppData\Local\Temp\scoped_dir18232_10678283\Crashpad\reports\c03c7f62-ab1e-479c-8ac7-df573ac1adcc.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[0217/170921.069:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
